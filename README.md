@@ -298,3 +298,7 @@ Before you move on, make sure you can answer the following questions:
 [proxy]: https://create-react-app.dev/docs/proxying-api-requests-in-development/
 [honcho]: https://honcho.readthedocs.io/en/latest/
 [gunicorn]: https://flask.palletsprojects.com/en/2.2.x/deploying/gunicorn/
+
+
+- you might need to run this code 
+'npm install ajv'
